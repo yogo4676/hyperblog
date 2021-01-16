@@ -24,3 +24,17 @@ body {
 #container h1{
     font-size: 20px;
 }
+
+footer{
+    height: 50px;
+    width: 100%;
+  
+}
+footer #footer{
+    background-color: violet;
+    font-size: large;
+    height: 100%;
+    margin: 0 auto; 
+    padding: 4px;
+    text-align: center;
+}
